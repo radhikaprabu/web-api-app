@@ -1,5 +1,5 @@
 $(function () {
-	var apiKey = "6850d68a49eaa7bc04219a49a4b4ce68"; //api key variable
+	var apiKey = "6e465fff6ebe1488c5caadd47f02baeb"; //api key variable
 
 	$('form').hide(); //Hide the forms in the beginning
 
